@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:build/build.dart';
 import 'package:build_test/build_test.dart';
-import 'package:graphql_codegen/builder.dart';
+import 'package:my_graphql_codegen/builder.dart';
 import 'package:path/path.dart';
 import 'package:test/scaffolding.dart';
 

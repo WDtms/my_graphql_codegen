@@ -7,7 +7,7 @@ import 'package:code_builder/code_builder.dart';
 import 'package:dart_style/dart_style.dart';
 import 'package:glob/glob.dart';
 import 'package:gql/language.dart';
-import 'package:graphql_codegen/graphql_codegen.dart';
+import 'package:my_graphql_codegen/graphql_codegen.dart';
 import 'package:graphql_codegen_config/config.dart';
 
 /// The builder class.
